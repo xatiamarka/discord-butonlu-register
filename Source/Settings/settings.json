@@ -1,0 +1,30 @@
+{
+  "botToken": "NzU0MjY0NDYyNzIyMDcyNjM3.X1yNhQ.hDea9Po06zSKXJDq9sOxMB8bVGs",
+  "botOwner": "419516250784530442",
+  "botPrefix": ".",
+  "botVoiceChannel": "859353808203415572",
+  "botActivityName": "Arda <3 Serendia",
+  "botActivityType": "WATCHING",
+  "botStatus": "dnd",
+
+  "mongoConnectionLink": "mongodb+srv://ardareus:xatiagold@cluster0.3wofs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "859353807896051737",
+  "rulesChannel": "859353807896051738",
+  "Suspicious": "SUPHELIROLID",
+  "Unregistered": "859767728109912076",
+
+
+  "FamilyRole": "TAGROLID",
+  "Tag": "✦",
+  "Untag": "•",
+
+  "RegisterStaff": ["859767646559010836", "YETKILI2"],
+  "ManRole": "859356436975190037",
+  "WomanRole": "859767703718854657",
+  "BoosterRole": "BOOSTERROLU",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
